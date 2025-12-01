@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "だんだん早くなる",
+  "base_artist": "40mP",
+  "createdAt": "2025-12-01T19:53:48.238968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だんだん早くなる (逐渐变快)",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/01_だんだん早くなる_(逐渐变快)_40mP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/02_だんだん早くなる_40mP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/03_だんだん早くなる_そらる.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "だんだん早くなる -piano ver.-",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/04_だんだん早くなる_-piano_ver.-_40mP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/05_だんだん早くなる_40mP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_だんだん早くなる_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "40mP/初音ミク",
+      "has_synced": true,
+      "path": "select/07_だんだん早くなる_40mP_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/08_だんだん早くなる_96猫.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "だんだん早くなる ーpiano ver. ー",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/09_だんだん早くなる_ーpiano_ver._ー_40mP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "だんだん早くなる",
+      "artist": "合辑",
+      "has_synced": true,
+      "path": "select/10_だんだん早くなる_合辑.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だんだん早くなる",
+      "artist": "40mP feat 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_だんだん早くなる_40mP_feat_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "だんだん早くなる",
+      "artist": "40mP feat 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_だんだん早くなる_40mP_feat_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "だんだん早くなる",
+      "artist": "40mP feat 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_だんだん早くなる_40mP_feat_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "だんだん早くなる",
+      "artist": "40mP feat 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_だんだん早くなる_40mP_feat_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "だんだん早くなる",
+      "artist": "40mP feat 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_だんだん早くなる_40mP_feat_初音ミク.txt"
+    }
+  ]
+}
